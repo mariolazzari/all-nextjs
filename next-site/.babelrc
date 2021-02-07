@@ -1,0 +1,13 @@
+{
+  "presets": [
+    [
+      "next/babel",
+      {
+        "preset-react": {
+          "runtume": "automatic",
+          "importSource": "@emotion/react"
+        }
+      }
+    ]
+  ]
+}
